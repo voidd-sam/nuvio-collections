@@ -1,4 +1,4 @@
-## Folder Structure & Asset URLs
+## Folder Structure & Asset URL
 
 All assets are served via GitHub raw URLs. The base URL structure is:
 `https://raw.githubusercontent.com/sam-k99/Nuvio-collections/main/<category>/<folder-name>/<file-name>`
